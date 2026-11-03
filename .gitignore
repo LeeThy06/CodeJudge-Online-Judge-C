@@ -2,20 +2,25 @@
 oj-server
 oj-client
 *.o
-*.out
 
 # Database
 *.db
+*.db-shm
+*.db-wal
 *.sqlite
 *.sqlite3
 
 # Temporary files
 *.log
 *.tmp
+__pycache__/
+*.pyc
 
-# IDE
+# Backup files
+*.backup*
+*.register_backup*
+
+# IDE and OS
 .vscode/
 .idea/
-
-# OS
 .DS_Store
