@@ -688,7 +688,6 @@ Thông qua đồ án, nhóm đã vận dụng TCP Socket để giao tiếp giữ
 Hệ thống cung cấp các chức năng cơ bản của một nền tảng Online Judge, bao gồm quản lý đề bài, quản lý Test Case, nộp bài, chấm bài tự động và theo dõi kết quả.
 
 Đồ án giúp nhóm củng cố kiến thức về ngôn ngữ C, lập trình hệ thống, giao tiếp liên tiến trình và phát triển ứng dụng trên môi trường Ubuntu Linux.
-
 ---
 
 **Đề tài:** CodeJudge – C Online Judge System
