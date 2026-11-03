@@ -16,6 +16,7 @@ int db_add_problem(const OJProblem *p);
 int db_update_problem(const OJProblem *p);
 int db_delete_problem(int id);
 int db_list_tests(int problem_id,OJTest *items,int cap);
+int db_get_test(int test_id, OJTest *item);
 int db_add_test(int problem_id,const char *input,const char *output);
 int db_update_test(int test_id,const char *input,const char *output);
 int db_delete_test(int test_id);
