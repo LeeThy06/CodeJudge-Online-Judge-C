@@ -1,0 +1,21 @@
+# Compiled files
+oj-server
+oj-client
+*.o
+*.out
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
