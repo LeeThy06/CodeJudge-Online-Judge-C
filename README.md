@@ -686,10 +686,6 @@ CodeJudge là đồ án ứng dụng các kiến thức lập trình C, lập tr
 Thông qua đồ án, nhóm đã vận dụng TCP Socket để giao tiếp giữa các ứng dụng, pthread để xử lý nhiều Client đồng thời, các API quản lý tiến trình trong Linux để biên dịch và thực thi mã nguồn, đồng thời sử dụng SQLite để quản lý dữ liệu.
 
 Hệ thống cung cấp các chức năng cơ bản của một nền tảng Online Judge, bao gồm quản lý đề bài, quản lý Test Case, nộp bài, chấm bài tự động và theo dõi kết quả.
-
-Đồ án giúp nhóm củng cố kiến thức về ngôn ngữ C, lập trình hệ thống, giao tiếp liên tiến trình và phát triển ứng dụng trên môi trường Ubuntu Linux.
----
-
 **Đề tài:** CodeJudge – C Online Judge System
 
 **Phiên bản:** V2
